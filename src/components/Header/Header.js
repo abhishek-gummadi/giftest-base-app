@@ -24,7 +24,7 @@ class Header extends React.Component {
             <span>Your Company</span>
           </Link>
           <div>
-            <h1>React</h1>
+            <h1>Howdy</h1>
             <p>Complex web apps made easy</p>
           </div>
         </div>
