@@ -15,15 +15,8 @@ class Footer extends React.Component {
     return (
       <div>
         <div>
-          <span>© Your Company</span>
-          <span>·</span>
-          <Link to="/">Home</Link>
-          <span>·</span>
-          <Link to="/admin">Admin</Link>
-          <span>·</span>
-          <Link to="/privacy">Privacy</Link>
-          <span>·</span>
-          <Link to="/not-found">Not Found</Link>
+          <span></span>
+          <Link to="/"></Link>
         </div>
       </div>
     );

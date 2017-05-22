@@ -14,7 +14,7 @@ class Feedback extends React.Component {
   render() {
     return (
       <div>
-        <div>
+        {/* <div>
           <a
             href="https://gitter.im/kriasoft/react-starter-kit"
           >Ask a question</a>
@@ -22,7 +22,7 @@ class Feedback extends React.Component {
           <a
             href="https://github.com/kriasoft/react-starter-kit/issues/new"
           >Report an issue</a>
-        </div>
+        </div> */}
       </div>
     );
   }
